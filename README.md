@@ -1,0 +1,1 @@
+The Microsoft Excel file "Course_PCA.xlsx" contains the data to be processed by the Hierarchical Cluster Analysis algorithm. More specifically, 500 rows with each  containing the three principal components.
